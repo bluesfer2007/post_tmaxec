@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2502202221179004027500120231010001805430085886517</numeroAutorizacion>
+<fechaAutorizacion>2021-03-24T10:34:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COMERCIAL Comercial e Industrial S.A.</razonSocial><nombreComercial>COMERCIAL Comercial e Industrial S.A.</nombreComercial><ruc>1790040275001</ruc><claveAcceso>2402202101179004027500120231010001808430085886517</claveAcceso><codDoc>01</codDoc><estab>023</estab><ptoEmi>101</ptoEmi><secuencial>000180843</secuencial><dirMatriz>Av. Colón E4-81 y 9 de Octubre</dirMatriz></infoTributaria><infoFactura><fechaEmision>24/03/2021</fechaEmision><dirEstablecimiento>CALLE 1741 Y AV.CALLE C.C CALLE</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>PULLUTASIG ACOSTA FERNANDO</razonSocialComprador><identificacionComprador>9999999999999</identificacionComprador><totalSinImpuestos>16.06</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>16.06</baseImponible><valor>1.93</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>17.99</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>16</formaPago><total>17.99</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0000014667</codigoPrincipal><descripcion>FUNDAS PLASTICAS 13PLGX24PLGX3.5PLG PARA DESPACHO GRANDE</descripcion><cantidad>1.00</cantidad><precioUnitario>0.0010</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0000068629</codigoPrincipal><descripcion>REGULADOR DE VOLTAJE PRO PC 1000</descripcion><cantidad>1.00</cantidad><precioUnitario>16.0600</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.06</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>16.06</baseImponible><valor>1.93</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="comentario">AV BOLIVARIANA Y TOLA|999994024|2021-02-24 valor: 17.9900|23-FP-858865||</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature187022">
+<ds:SignedInfo Id="Signature-SignedInfo667602">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID405883" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature187022-SignedProperties292346">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>GjhaXAe8KW90nvtXx1Yl1kRZFKw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1630061">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>EgWLd5JksRiFeGLWBFnyZQc9+yI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-835349" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+x4BeNRkoZ91bAKr+GFdPjpTSRw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue185266">
+Ci0+sZb+iBwm13mtv8/SdiZUPC+H4DBOwKqBagZo2xoW8AO12aNXAGwja23vAgWYUjb3sAocIm/0
+wl75FKhgAbw9Hg/mbLVP0TtKDJVLbqcMfdMQJACQLybVT8OclwdWBR3qIs+xVjjFkMANIPWTBbpm
+Ow1ZKqrHPvo/NIDNErqfvrplfJ6FgfO0hV8ED9RjqODH9RhES+/ZHT7zuTrCxGuLk29eETCEsF5T
+zSy5NLcjZhtKglTVKnon/ioH2U64XeMMRGtDy02fAwoxr/dKWgGYI/oDqjTFq4fOFNw+qq3cHkmL
+tV+mwQhC5ytmVfObXviCvQltIW9p91iAyXja1Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1630061">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ9zCCB9+gAwIBAgIEW2EjrjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+ba9USebaY48nqZBgbJHC16SNNfXZxZbFqT4zhg5YHa2y4pVALqdD0mojjb4gZ8qPCxsPUeyoIUNL
+peVaxfZUVSLI8088KR5spcZxSsMyx5sQVTG3Ez3YwCT2O7bFQ/q2wbL30zbldoanfgcc+L6OK+Hz
+WLMQJm2byjVWQ4eAjVDez3929jL5OlBhgHm7Lm+8WGDpWQg3NwvPiIodz82xN//VZcn/wAPHlkUc
+9ZOa3VlOMqKtHvCwdQ/TcgnHjx1hWUvCIfQvpJWJzULOyANbzTbzk/yy8A47XZlH+pfDOlu4gCqn
+c1zJIhXqW6W4hG4wI1GlxiJUTZSwCMPMTQIA7eaPl3UvmzSOm3Muj0E9FB8N7zkiXZKCXl18s8na
+lRS5eOH5bmPPqqZI2bXlCAeilD0EXOIP7bMyFG8mArm30Aeyfn80+g7WH+xoBFg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+v6zAwyrP33re9D34Cst63HneVV6A/HJ1NUzk85u9Tk/yauSCAMqJ0iZH5TAypVsmxK4Sfw+Kxek6
+ZATIx/hxXZeArQyWzI7CH1gehlXfAU9TjBZjccQ6SddaovPz6e+rsgnXWCam3Kq+uD/KJwoPn8Pv
+JUfiyEQ3sA90ri59QevH2P+iJSLq7TkFHlK9MxQzXmToAlllKieQ7q5Pd0+PvJmwPDQfxDujs+FO
+WKNrb+5rKdRjKimHxIdeYjyl9Tqu8TqmIFbnHQlJFKi63+xe3yeem5NHzoZ5efBpiZA1SF7j4zCr
+lfd3pmxjUWegQ1m7hBf6OCi8JERCvp3apk1xAQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature187022-Object1034812"><etsi:QualifyingProperties Target="#Signature187022"><etsi:SignedProperties Id="Signature187022-SignedProperties292346"><etsi:SignedSignatureProperties><etsi:SigningTime>2021-02-24T10:32:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QA5lgX0GToLluI1IANo66YqvU9Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533092782</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-835349"><etsi:Description>Documento firmado con XADES_BES</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
