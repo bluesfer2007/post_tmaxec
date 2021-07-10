@@ -2,7 +2,7 @@
 # :heart_eyes: :snake: TUTORIALES DE ANÁLISIS Y EXTRACCIÓN USANDO PYTHON
 
 <div align="center">
-<img src="https://github.com/asistenteimp01/img_blog_tmaxec/blob/main/logopy/logopythom.png" alt="LogoPython" style="max-width:25%;">
+<img src="https://github.com/asistenteimp01/img_blog_tmaxec/blob/main/logopy/logopythom.png" alt="LogoPython" width="300" height="300">
 </div> 
 
 <p>
